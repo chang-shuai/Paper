@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:title="@string/update"></item>
+        <item android:title="@string/answer"></item>
+        <item android:title="@string/show"></item>
+        <item android:title="@string/create"></item>
+        <item android:title="@string/upload"></item>
+    </group>
+</menu>
